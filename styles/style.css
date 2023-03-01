@@ -9,6 +9,10 @@ ul {
     gap: 32px;
 }
 
+.header-logo {
+    padding-right: 300px;
+}
+
 .left-nav {
     flex: 1;
     display: flex;
