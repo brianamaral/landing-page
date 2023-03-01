@@ -1,3 +1,11 @@
+a {
+    all: unset;
+}
+
+ul {
+    list-style-type: none;
+}
+
 .navbar {
     display: flex;
     align-items: center;
@@ -25,3 +33,4 @@ ul {
     display: flex;
     justify-content: center;
 }
+
