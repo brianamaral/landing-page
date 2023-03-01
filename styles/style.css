@@ -19,6 +19,7 @@ button {
 .navbar {
     display: flex;
     align-items: center;
+    justify-content: space-around;
     
 }
 
@@ -27,30 +28,27 @@ ul {
     gap: 32px;
 }
 
-.header-logo {
-    padding-right: 300px;
-}
 
 .left-nav {
-    flex: 1;
     display: flex;
     justify-content: center;
     padding: 10;
 }
 
 .right-nav {
-    flex: 1;
     display: flex;
     justify-content: center;
 }
 
 .inner-div {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .left-items {
     display: flex;
     flex-direction: column;
 }
+
+
 
