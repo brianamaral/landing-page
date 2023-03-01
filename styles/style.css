@@ -12,6 +12,10 @@ ul {
     list-style-type: none;
 }
 
+button {
+    align-self: flex-start;
+}
+
 .navbar {
     display: flex;
     align-items: center;
