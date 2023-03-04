@@ -28,19 +28,6 @@ ul {
     gap: 32px;
 }
 
-
-.image-placeholder {
-    width: 400px;
-    display: flex;
-    justify-content: center;
-}
-
-.left-items {
-    display: flex;
-    justify-content: center;
-    padding: 10;
-}
-
 .left-nav {
     display: flex;
     justify-content: center;
@@ -63,6 +50,13 @@ ul {
     flex-direction: column;
     justify-content: space-around;
 }
+
+.right-items {
+    display: flex;
+    justify-content: center;
+    padding: 10;
+}
+
 
 
 
