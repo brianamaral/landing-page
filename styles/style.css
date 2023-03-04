@@ -25,12 +25,12 @@ ul {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    width: 300px;
 }
 
 .right-items {
     display: flex;
     flex-direction: column;
-    
 }
 
 .container {
