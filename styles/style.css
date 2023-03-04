@@ -29,6 +29,18 @@ ul {
 }
 
 
+.image-placeholder {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.left-items {
+    display: flex;
+    justify-content: center;
+    padding: 10;
+}
+
 .left-nav {
     display: flex;
     justify-content: center;
@@ -42,12 +54,14 @@ ul {
 
 .inner-div {
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .left-items {
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
 }
 
 
