@@ -46,17 +46,15 @@ ul {
 }
 
 .left-items {
+    width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
 .right-items {
+    width: 300px;
     display: flex;
     justify-content: center;
     padding: 10;
 }
-
-
-
-
