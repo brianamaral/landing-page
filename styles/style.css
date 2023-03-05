@@ -67,6 +67,11 @@ ul {
     padding: 10;
 }
 
+.image-placeholder {
+    background-color: aqua;
+    flex: 1;
+}
+
 
 
 
