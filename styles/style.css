@@ -42,7 +42,7 @@ ul {
 .inner-div {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .left-items {
@@ -55,6 +55,7 @@ ul {
 .right-items {
     display: flex;
     justify-content: center;
+    width: 300px;
     padding: 10;
 }
 
