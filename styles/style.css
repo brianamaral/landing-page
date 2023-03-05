@@ -99,6 +99,7 @@ ul {
 .container-mid {
     display: flex;
     flex-direction: column;
+    width: 60%;
 }
 
 .upper-items-mid {
