@@ -101,6 +101,16 @@ ul {
     flex-direction: column;
 }
 
+.upper-items-mid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-items-mid {
+    display: flex;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
@@ -129,12 +139,3 @@ ul {
     border-radius: 8px;
 }
 
-.upper-items-mid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.bottom-items-mid {
-    display: flex;
-}
