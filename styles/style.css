@@ -30,6 +30,7 @@ button {
     width: 70%;
     display: flex;
     flex-direction: column;
+    margin-bottom: 52px;
 }
 
 .upper-background {
@@ -83,6 +84,8 @@ ul {
     flex: 1;
     height: auto;
 }
+
+
 
 
 
