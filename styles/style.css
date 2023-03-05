@@ -22,6 +22,11 @@ button {
     align-self: flex-start;
 }
 
+p,h1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .navbar {
     display: flex;
     align-items: center;
@@ -34,7 +39,6 @@ button {
     width: 70%;
     display: flex;
     flex-direction: column;
-    margin-bottom: 52px;
 }
 
 .upper-background {
