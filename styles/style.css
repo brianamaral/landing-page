@@ -20,7 +20,7 @@ button {
 .navbar {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     
 }
 
@@ -47,7 +47,7 @@ ul {
 .inner-div {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .left-items {
