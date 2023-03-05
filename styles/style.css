@@ -129,6 +129,12 @@ ul {
     border-radius: 8px;
 }
 
+.upper-items-mid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .bottom-items-mid {
     display: flex;
 }
