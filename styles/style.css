@@ -111,6 +111,15 @@ ul {
     display: flex;
 }
 
+.mid-box {
+    width: 150px;
+    height: 150px;
+    border-color: #3882F6;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 8px;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
