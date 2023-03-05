@@ -110,6 +110,7 @@ ul {
 
 .bottom-items-mid {
     display: flex;
+    justify-content: space-evenly;
 }
 
 .info-container {
