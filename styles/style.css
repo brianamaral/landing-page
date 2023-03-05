@@ -91,6 +91,9 @@ ul {
     background-color: #cfd3d8;
     flex: 1;
     height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .main-text {
