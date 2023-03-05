@@ -113,6 +113,8 @@ ul {
 }
 
 .sign-up-button {
+    font-weight: bold;
+    color: #F9FAF8;
     background-color: #3882F6;
     padding: 8px;
     padding-left: 26px;
@@ -121,7 +123,3 @@ ul {
     border-style: solid;
     border-radius: 8px;
 }
-
-
-
-
