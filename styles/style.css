@@ -46,7 +46,6 @@ ul {
 
 .inner-div {
     display: flex;
-    align-items: center;
     justify-content: space-between;
     gap: 52px;
 }
@@ -70,6 +69,7 @@ ul {
 .image-placeholder {
     background-color: aqua;
     flex: 1;
+    height: auto;
 }
 
 
