@@ -109,6 +109,16 @@ ul {
     color: #F9FAF8;
 }
 
+.sign-up-button {
+    background-color: #3882F6;
+    padding: 8px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-radius: 8px;
+}
+
 
 
 
