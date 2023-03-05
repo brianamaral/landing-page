@@ -96,6 +96,11 @@ ul {
     justify-content: center;
 }
 
+.container-mid {
+    display: flex;
+    flex-direction: column;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
