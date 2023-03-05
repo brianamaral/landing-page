@@ -62,8 +62,8 @@ ul {
     display: flex;
     justify-content: center;
     width: 300px;
-    flex: 2 1 auto;
-    padding: 10;
+    flex: 2 1 auto;  
+
 }
 
 .image-placeholder {
