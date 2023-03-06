@@ -130,6 +130,13 @@ ul {
     border-radius: 8px;
 }
 
+.container-quote {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 60%;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
@@ -164,10 +171,5 @@ ul {
     border-radius: 8px;
 }
 
-.container-quote {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    width: 60%;
-}
+
 
