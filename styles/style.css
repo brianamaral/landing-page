@@ -211,6 +211,10 @@ ul {
     color: #F9FAF8;
 }
 
+.action-subtext {
+    color: #E5E7EB;
+}
+
 .quote-text {
     font-size: 36px;
     font-weight:200;
