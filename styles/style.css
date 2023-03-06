@@ -22,7 +22,7 @@ ul {
     align-self: flex-start;
 }
 
-p,h1,h2 {
+p,h1,h2,h3 {
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -68,7 +68,7 @@ ul {
     display: flex;
     justify-content: space-between;
     gap: 52px;
-    margin-bottom: 62px;
+    margin-bottom: 72px;
 }
 
 .left-items {
@@ -107,6 +107,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 52px;
 }
 
 .bottom-items-mid {
@@ -148,6 +149,7 @@ ul {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    padding: 20px;
     margin-top: 52px;
     margin-bottom: 52px;
     width: 60%;
