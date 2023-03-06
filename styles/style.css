@@ -22,7 +22,7 @@ ul {
     align-self: flex-start;
 }
 
-p,h1 {
+p,h1,h2 {
     margin-top: 5px;
     margin-bottom: 5px;
 }
