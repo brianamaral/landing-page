@@ -146,9 +146,12 @@ ul {
 
 .call-to-action {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    width: 50%;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    width: 60%;
+    height: 100px;
 }
 
 .main-text {
@@ -197,6 +200,11 @@ ul {
     border-radius: 8px;
 }
 
+
+.call-to-action {
+    background-color: #3882F6;
+    border-radius: 8px;
+}
 
 .quote-text {
     font-size: 36px;
