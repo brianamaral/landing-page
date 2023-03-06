@@ -154,10 +154,11 @@ ul {
     height: 100px;
 }
 
-footer {
+.footer-background {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .main-text {
