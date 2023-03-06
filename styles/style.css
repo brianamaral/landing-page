@@ -171,5 +171,18 @@ ul {
     border-radius: 8px;
 }
 
+.quote-text {
+    font-size: 36px;
+    font-weight:200;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-author {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 
 
