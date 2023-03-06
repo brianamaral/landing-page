@@ -144,6 +144,10 @@ ul {
     justify-content: center;
 }
 
+.call-to-action {
+    display: flex;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
