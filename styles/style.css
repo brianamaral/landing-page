@@ -18,7 +18,7 @@ ul {
     list-style-type: none;
 }
 
-button {
+.left-items button {
     align-self: flex-start;
 }
 
@@ -146,6 +146,9 @@ ul {
 
 .call-to-action {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
 }
 
 .main-text {
