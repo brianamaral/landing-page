@@ -137,6 +137,11 @@ ul {
     width: 50%;
 }
 
+.lower-background {
+    display: flex;
+    justify-content: center;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
